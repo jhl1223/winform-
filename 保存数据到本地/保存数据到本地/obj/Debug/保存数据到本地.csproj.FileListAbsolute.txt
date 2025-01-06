@@ -1,0 +1,13 @@
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\bin\Debug\保存数据到本地.exe.config
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\bin\Debug\保存数据到本地.exe
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\bin\Debug\保存数据到本地.pdb
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.csproj.AssemblyReference.cache
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.Form1.resources
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.Properties.Resources.resources
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.csproj.GenerateResource.cache
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.csproj.CoreCompileInputs.cache
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.csproj.CopyComplete
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.exe
+C:\Users\jianghaoliang\Desktop\成熟项目\winform\保存数据到本地\保存数据到本地\obj\Debug\保存数据到本地.pdb
